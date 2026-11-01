@@ -18,8 +18,8 @@ I believe in writing clean, maintainable code and building practical solutions t
 - CRUD Operations
 
 **Frontend Development**
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - Bootstrap
 - React.js
